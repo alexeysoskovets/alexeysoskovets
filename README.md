@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alexeysoskovets
-- 👀 I’m interested in Java, PHP
+- 👀 I’m interested in Java, PHP, testnets
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: telegram @alexeysoskovets
